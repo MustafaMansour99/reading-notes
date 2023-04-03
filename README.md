@@ -1,7 +1,8 @@
 # reading-notes
-| Introduction to SQL       | Summary 
+| Header                    | Summary 
 | :---                      |   :----:   
-|SQL                        |[SQL Practice](./Sql.md)
+|SQL                        | [SQL Practice](./Sql.md)
 |Terminal                   | [Terminal](./Terminal.md)
+|The Growth Mindset         | [Growth](./TheGrowthMindset.md)
        
 ---
