@@ -2,22 +2,12 @@
 
 This website contains my personal notes for the courses I am taking in software development. It serves as a reference for me to review and study the topics covered in each course.
 
-# Code 102 - Intro to Software Development
+---
+
+# ***Code 102 - Intro to Software Development***
 # Code 201 - Foundations of Software Development
 # Code 301 - Intermediate Software Development
 # Code 401 - Advanced Software Development
-
-
-1.Level-1 and level-2 headings
-
-2.Bold and italic text
-
-3.Bullet-point lists
-
-4.Links
-
-5.Code snippets
-
 
 
 ---
