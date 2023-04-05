@@ -24,4 +24,3 @@
 # What’s the one thing I bring to this career (and a potential employer) that nobody else can?
 
 Highlight all of the needed skills and requirements for the job that you bring to the table. -‘m a detail-oriented, creative thinker who is constantly looking for ways to learn and grow to become a more beneficial employee. I constantly set goals for myself, and I persistently try to achieve them. I think these skills will make me a very valuable asset to the company.
-

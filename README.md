@@ -1,13 +1,13 @@
 # Reading-Notes
 
-This website contains my personal notes for the courses I am taking in software development. It serves as a reference for me to review and study the topics covered in each course.
+*This website contains my personal notes for the courses I am taking in software development. It serves as a reference for me to review and study the topics covered in each course.*
 
 ---
 
 # ***Code 102 - Intro to Software Development***
-# Code 201 - Foundations of Software Development
-# Code 301 - Intermediate Software Development
-# Code 401 - Advanced Software Development
+# ***Code 201 - Foundations of Software Development***
+# ***Code 301 - Intermediate Software Development***
+# *Code 401 - Advanced Software Development*
 
 
 ---
@@ -22,6 +22,7 @@ This website contains my personal notes for the courses I am taking in software 
 | The Growth Mindset | [Growth](./TheGrowthMindset.md) |
 |   Read class-01    |       [Read1](./Read1.md)       |
 |   Read class-02    |       [Read2](./Read2.md)       |
+|   Read class-03    |       [Read3](./Read3.md)       |
 
 
 
