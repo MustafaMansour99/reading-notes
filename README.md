@@ -25,6 +25,7 @@
 |   Read class-03    |       [Read3](./Read3.md)       |
 |   Read class-04    |       [Read4](./Read4.md)       |
 |   LINKED-LIST      |       [linked-list](./Read5.md)   |
+|   Read class-05      |       [Read6](./Read6.md)   |
 
 
 
