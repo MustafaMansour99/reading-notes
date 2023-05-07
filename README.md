@@ -30,6 +30,7 @@
 |   Read class-08      |       [Read8](./Read8.md)   |
 |   Read class-09      |       [Read9](./Read9.md)   |
 |   Stack&&Queue      |       [Stack&&Queue](./stack_queue.md)|
+|   Data Analysis      |       [Data Analysis](./stack_queue.md)|
 
 
 
