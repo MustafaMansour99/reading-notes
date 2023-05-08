@@ -31,6 +31,7 @@
 |   Read class-09      |       [Read9](./Read9.md)   |
 |   Stack&&Queue      |       [Stack&&Queue](./stack_queue.md)|
 |   Data Analysis      |       [Data Analysis](./stack_queue.md)|
+|   Pandas      |       [Pandas](./Read11.md)|
 
 
 
