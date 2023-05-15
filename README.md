@@ -33,6 +33,7 @@
 |   Data Analysis      |       [Data Analysis](./stack_queue.md)|
 |   Pandas      |       [Pandas](./Read11.md)|
 |   Linear Regressions      |       [Linear Regressions](./Linear_Regressions.md)|
+|   Data-visualization      |       [Data-visualization ](./Data-Visualization.md)|
 
 
 
