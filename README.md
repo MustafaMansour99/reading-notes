@@ -35,6 +35,7 @@
 |   Linear Regressions      |       [Linear Regressions](./Linear_Regressions.md)|
 |   Data-visualization      |       [Data-visualization ](./Data-Visualization.md)|
 |   Read Trees      |       [Read-Trees](./Read-Trees.md)|
+|   serverless computing      | [serverless computing](./serverless_computing.md)|
 
 
 
