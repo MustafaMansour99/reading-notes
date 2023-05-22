@@ -36,6 +36,7 @@
 |   Data-visualization      |       [Data-visualization ](./Data-Visualization.md)|
 |   Read Trees      |       [Read-Trees](./Read-Trees.md)|
 |   serverless computing      | [serverless computing](./serverless_computing.md)|
+|   Web Scraping      | [Web Scraping](./Web_Scraping.md)|
 
 
 
