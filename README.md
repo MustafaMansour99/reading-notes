@@ -37,6 +37,8 @@
 |   Read Trees      |       [Read-Trees](./Read-Trees.md)|
 |   serverless computing      | [serverless computing](./serverless_computing.md)|
 |   Web Scraping      | [Web Scraping](./Web_Scraping.md)|
+|   Read-18      | [Read-18](./Read-18.md)|
+|   Read-19      | [Read-19](./Read-19.md)|
 
 
 
