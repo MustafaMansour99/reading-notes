@@ -4,4 +4,5 @@
 
 # What is the purpose of the shutil library in Python, and provide an example of a common use case for file or directory management with this library?
 
-***The shutil (shell utilities) library in Python provides a high-level interface for file and directory operations. It offers convenient functions for copying, moving, renaming, and deleting files and directories, as well as archiving operations.x    ***
+**The shutil (shell utilities) library in Python provides a high-level interface for file and directory operations.** 
+**It offers convenient functions for copying, moving, renaming, and deleting files and directories, as well as archiving operations.x** 
