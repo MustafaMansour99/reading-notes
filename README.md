@@ -40,6 +40,7 @@
 |   Read-18      | [Read-18](./Read-18.md)|
 |   Read-19      | [Read-19](./Read-19.md)|
 |   Django      | [Django](./Django.md)|
+|   Django Module      | [Django Module](./Django_Module.md)|
 
 
 
