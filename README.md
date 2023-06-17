@@ -41,6 +41,7 @@
 |   Read-19      | [Read-19](./Read-19.md)|
 |   Django      | [Django](./Django.md)|
 |   Django Module      | [Django Module](./Django_Module.md)|
+|   Django CRUD and FORMS     | [Django CRUD and FORMS](./Django_CRUD_FORM.MD)|
 
 
 
