@@ -8,7 +8,7 @@
 
 **For example, if you add me.png inside public, the following code will access the image:**
 
-# import Image from 'next/image'
+ import Image from 'next/image'
  
 export function Avatar() {
   return <Image src="/me.png" alt="me" width="64" height="64" />
